@@ -1,0 +1,9 @@
+                                                        LeaveCastle	
+                    CrownRoom	EmptyHallway	MarioRoom	 BowsersFortress	
+                              EmptyHallway			
+                              EmptyHallway			
+                              ToadRoom			
+KoopaTroopaRoom	EmptyHallway	StartingRoom	EmptyHallway	EmptyHallway	MiniBowserRoom
+                              YoshiRoom		  LuigiRoom	
+                              EmptyHallway			
+                              CrownRoom			

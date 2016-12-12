@@ -1,0 +1,31 @@
+[['P', 'Princess Peach'],
+['B', 'Bowser'],
+['M', 'Mario'],
+['L', 'Luigi'],
+['Y', 'Yoshi'],
+['T', 'Toad'],
+['K', 'Koopa Troopa'],
+['X', 'Empty'],
+['H', 'Hallway'],
+['S', 'Start'],
+['E', 'End'],
+['O', 'Mini Bowser']]
+
+XXXXXXXXXXX
+XOHHKHHBXEM
+XHXXXXXHHHX
+XHXXXXXXXXX
+XHHXXXXXXXX
+XYHXXXXXXXX
+XXHXXXXXXXX
+XXHXXXXXXXX
+XLHHXXHXXXX
+XXXHXXHXXXX
+XXXHXXHXXXX
+SHHTXXHXXXX
+XXXHXXHXXXX
+XKXHXXHXXXX
+XHHHXXHXXXX
+XXXHXXHXXXX
+XXXHHHHKXXX
+
